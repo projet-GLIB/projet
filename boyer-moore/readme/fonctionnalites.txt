@@ -1,0 +1,17 @@
+-------------------------------------------------------
+Specifications du logiciel d'analyse de code genetique
+-------------------------------------------------------
+
+	--> Recherche de pattern P dans un texte T par l'utilisation de l'algorithme de Boyer-Moore-Horspool
+	    -> De maniere sequencielle sur un coeur
+	    -> De maniere parallele sur plusieurs coeurs
+
+
+	--> Recherche de pattern P dans un texte T par l'algorithme de B-M-H, a partir d'une position dans le texte T, specifiee par l'utilisateur
+	    -> Sequencielle
+	    -> Parallele
+
+	--> Calcul du taux de similarite de deux textes T_1 et T_2
+
+	--> 
+
